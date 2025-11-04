@@ -87,7 +87,3 @@ The following configuration parameters are used for the high dissipation regime 
 - `test_sounding.data` - Atmospheric sounding input file
 - `user_source.jl` - Modified source file with sponge layer implementation
 - Modified Kessler microphysics file (for Case 2)
-
-## Contact
-
-For questions or issues, please open an issue on this repository.
