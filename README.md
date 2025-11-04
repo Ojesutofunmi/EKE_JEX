@@ -83,7 +83,6 @@ The following configuration parameters are used for the high dissipation regime 
 ## Files Included
 
 - `EKE_simone.ipynb` - Python notebook for EKE post-processing and visualization
-- `grid_meshes/` - Folder containing all GMSH-generated grid files
+-  Listed all GMSH-generated grid files
 - `test_sounding.data` - Atmospheric sounding input file
-- `user_source.jl` - Modified source file with sponge layer implementation
-- Modified Kessler microphysics file (for Case 2)
+- `physics/` - contains a microphysics.jl file modified for Kessler microphysics file (for Case 2)
