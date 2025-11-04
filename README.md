@@ -15,7 +15,7 @@ Navigate to the `CompEuler` folder and locate the following configuration direct
 
 ### Grid Configuration
 
-All grid files have been generated using GMSH and are available in the `grid_meshes` folder.
+All grid files have been generated using GMSH.
 
 | Grid Type | Domain Size (km) | Δx (m) | Δz (m) | Order 4 | Order 5 | Order 6 | WRF Grid Points | Grid File Name (Order 4) | Grid File Name (Order 5) | Grid File Name (Order 6) |
 |-----------|------------------|--------|--------|---------|---------|---------|-----------------|--------------------------|--------------------------|--------------------------|
